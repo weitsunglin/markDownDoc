@@ -39,8 +39,8 @@
 | zebra stripes | are neat        |    $1 |
 | test | 測試        |    $3333 |
 
+程式碼
 ```cpp{.line-numbers}
-// 取裝置Identifier
 std::string tests::test()
 {
     
