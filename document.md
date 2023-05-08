@@ -48,5 +48,10 @@ std::string tests::test()
 
 ```
 
+<font color="red">DYNAMIC_ISLAND_LIST</font>
+
+
+裝置Identifier詳情請見 [裝置Models wiki](https://www.theiphonewiki.com/wiki/Models)。
+
 
 ![GITHUB]( https://github.com/weitsunglin/markDownDoc/blob/main/winkSeal.jpg "git圖示")
