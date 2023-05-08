@@ -22,14 +22,6 @@
 *   Red
 *   Green
 *   Blue
-或
-+   Red
-+   Green
-+   Blue
-或
--   Red
--   Green
--   Blue
 
 
 字型：
@@ -46,5 +38,15 @@
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 | test | 測試        |    $3333 |
+
+```cpp{.line-numbers}
+// 取裝置Identifier
+std::string tests::test()
+{
+    
+}
+
+```
+
 
 ![GITHUB]( https://github.com/weitsunglin/markDownDoc/blob/main/winkSeal.jpg "git圖示")
